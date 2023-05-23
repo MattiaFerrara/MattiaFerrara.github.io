@@ -1,18 +1,17 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Mattia Ferrara",
+    "label": "Computer Science Student",
+    "picture": "https://github.com/MattiaFerrara.png",
+    "email": "mferrara22@fed.idserve.net",
+    "phone": "350-581-4465",
+    "website": "https://MattiaFerrara.github.io",
+    "summary": "I am studying Computer Science in the Department of Electric Engineering and Information Technology at the University of Federico II. I expect to graduate in Spring, 2024.",
+    "location": { "address": "Via Angelo Cerbone", "postalCode": "80021", "city": "Afragola", "countryCode": "ITA", "region": "Campania" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "mmaluhia", "url": "http://github.com/MattiaFerrara" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/mattia-ferrara-0b34941bb" },
+      { "network": "instagram", "username": "molly", "url": "http://instagram.com/mattia.ferrara6" }
     ]
   },
   "interests": [
@@ -25,19 +24,19 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Swift", "SQL" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Università degli Studi di Napoli Federico II, Campania, IT",
+      "area": "Computer Science (expected Spring, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "25-09-2018",
       "endDate": "Present",
       "courses": [
       ]
