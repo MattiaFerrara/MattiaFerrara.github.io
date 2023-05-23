@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/glide.jpeg
+image: img/Yuppi1.png
 title: "Yuppi"
 date: 2022-10
 published: true
