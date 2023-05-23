@@ -14,4 +14,4 @@ summary: "Redesign of the already existent app OfficinaStudenti following Human 
 
 Redesign of the already existent app OfficinaStudenti following Human Interface Guidelines
 
-Source: <a href="https://github.com/MattiaFerrara/OfficinaStudenti"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/MattiaFerrara/OfficinaStudenti"><i class="large github icon "></i>Github</a>
