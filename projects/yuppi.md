@@ -12,7 +12,7 @@ labels:
 summary: "An app to encourage kids to do fitness "
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/glide.png">
 
 Yuppi is an app that encourages kids to do fitness through games and funny activities.
 
