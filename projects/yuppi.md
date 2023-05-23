@@ -9,7 +9,7 @@ labels:
   - Swift
   - GitHub
   - CoreData
-summary: "An app to encourage kids to do fitness"
+summary: "An app to encourage kids to do fitness "
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
