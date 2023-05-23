@@ -7,11 +7,11 @@ date: 2022-11
 published: true
 labels:
   - SwiftUI
-summary: "Redesign of the already existent app OfficinaStudenti following Human Interface Guidelines "
+summary: "Redesign of the already existent app OfficinaStudenti following Human Interface Guidelines"
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/officinastudenti2.png">
 
-Yuppi is an app that encourages kids to do fitness through games and funny activities.
+Redesign of the already existent app OfficinaStudenti following Human Interface Guidelines
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/MattiaFerrara/OfficinaStudenti"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
