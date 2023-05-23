@@ -1,0 +1,45 @@
+{
+  "basics": {
+    "name": "Mattia Ferrara",
+    "label": "Computer Science Student",
+    "picture": "https://github.com/MattiaFerrara.png",
+    "email": "mferrara22@fed.idserve.net",
+    "phone": "350-581-4465",
+    "website": "https://MattiaFerrara.github.io",
+    "summary": "I am studying Computer Science in the Department of Electric Engineering and Information Technology at the University of Federico II. I expect to graduate in Spring, 2024.",
+    "location": { "address": "Via Angelo Cerbone", "postalCode": "80021", "city": "Afragola", "countryCode": "ITA", "region": "Campania" },
+    "profiles": [
+      { "network": "github", "username": "mmaluhia", "url": "http://github.com/MattiaFerrara" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/mattia-ferrara-0b34941bb" },
+      { "network": "instagram", "username": "molly", "url": "http://instagram.com/mattia.ferrara6" }
+    ]
+  },
+  "interests": [
+    { "name": "Interactive media" },
+    { "name": "Neuromorphic Computing" },
+    { "name": "Quantum Computing" },
+    { "name": "Robotics" },
+    { "name": "3D Graphics" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Swift", "SQL" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Università degli Studi di Napoli Federico II, Campania, IT",
+      "area": "Computer Science (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "25-09-2018",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ]
+}
