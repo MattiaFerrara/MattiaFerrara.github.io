@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/glide.jpeg
 title: "Yuppi"
 date: 2022-10
 published: true
