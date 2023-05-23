@@ -11,9 +11,9 @@ labels:
 summary: "2D Visual novel built in Unity with assets from Live2D"
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/medbot2.png">
 
 A post-apocalyptic slice of life 2D Visual Novel. You are the last human on Earth, found by MedBot under a pile of snow.
 How did humanity end, and who exactly is MedBot?
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/MattiaFerrara/VisualNovel"><i class="large github icon "></i>Github</a>
